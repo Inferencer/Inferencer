@@ -1,4 +1,9 @@
-[![MasterHead](https://raw.githubusercontent.com/Inferencer/Inferencer/main/lsgif.gif)](https://github.com/Inferencer/LipSick)
+
+<!-- First GIF -->
+[![MasterHead](https://raw.githubusercontent.com/Inferencer/Inferencer/main/header2.gif)](https://github.com/Inferencer/LipSick)
+
+<!-- Second GIF -->
+[![Secondary GIF](https://raw.githubusercontent.com/Inferencer/Inferencer/main/lsgif.gif)](https://github.com/Inferencer/LipSick)
 
 <!--
 **Inferencer/Inferencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
