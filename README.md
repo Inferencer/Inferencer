@@ -5,6 +5,7 @@
 <!-- Second GIF -->
 [![Secondary GIF](https://raw.githubusercontent.com/Inferencer/Inferencer/main/lsgif.gif)](https://github.com/Inferencer/LipSick)
 
+[![Secondary GIF](https://raw.githubusercontent.com/Inferencer/Inferencer/main/SickFace.gif)](https://github.com/Inferencer/SickFace)
 <!--
 **Inferencer/Inferencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
