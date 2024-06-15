@@ -1,6 +1,6 @@
 
 <!-- First GIF -->
-[![MasterHead](https://raw.githubusercontent.com/Inferencer/Inferencer/main/header2.gif)](https://github.com/Inferencer/LipSick)
+[![LipSickV2](https://github.com/Inferencer/LipSickV2/blob/main/.github/LipSickV2.gif?raw=true)](https://github.com/Inferencer/LipSickV2)
 
 <!-- Second GIF -->
 [![Secondary GIF](https://raw.githubusercontent.com/Inferencer/Inferencer/main/lsgif.gif)](https://github.com/Inferencer/LipSick)
